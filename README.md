@@ -8,7 +8,7 @@
 
 <!-- 타이틀 및 소개 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200§ion=header&text=안녕하세요!%20[이승민]입니다&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200§ion=header&text=안녕하세요!%20이승민입니다&fontSize=50" />
   <!-- 
     캡슐 렌더(capsule-render)를 사용하면 멋진 헤더를 쉽게 만들 수 있습니다. 
     https://github.com/kyechan99/capsule-render 에서 더 많은 옵션을 확인하세요.
@@ -79,7 +79,7 @@
 
 <!-- GitHub 통계 -->
 <div align="left">
-  <h2>📊 Languages</h2>
+  <h2>📊 Stats</h2>
   <p>
     <!-- 
       ?username= 뒤에 본인의 GitHub 아이디를 입력하세요.
@@ -99,37 +99,47 @@
 
   ---
 
-  ### 🚀 [프로젝트 1 이름]
-  > **[프로젝트 한 줄 설명]**
-  - **개발 기간:** 202X.XX ~ 202X.XX
+  ### 1. 자율주행 모형자동차
+  > ** 자율주행 모형 자동차를 직접 학습한 프로젝트**
+  - **개발 기간:** 2020.09 ~ 2020.10
   - **주요 기능:**
-    - [기능 1]
-    - [기능 2]
-    - [기능 3]
-  - **기술 스택:** `React`, `Node.js`, `MySQL`
-  - **성과/느낀점:** [이 프로젝트를 통해 배운 점, 특별한 성과 등을 간략히 작성]
-  - **Links:**
-    - [GitHub Repository](https://github.com/...)
-    - [Live Demo / App Store](https://...)
-    - [관련 블로그 포스트](https://...)
-
-  ---
-
-  ### 🚀 [프로젝트 2 이름]
-  > **[프로젝트 한 줄 설명]**
-  - **개발 기간:** 202X.XX ~ 202X.XX
-  - **주요 기능:**
-    - [기능 1]
-    - [기능 2]
-  - **기술 스택:** `Vue.js`, `Firebase`
-  - **성과/느낀점:** [이 프로젝트를 통해 배운 점, 특별한 성과 등을 간략히 작성]
+    - VNC Viewer를 통한 같은 네트워크에서의 조작
+    - 실시간 조작 및 데이터 수집
+    - 수집된 데이터를 학습하여 딥러닝 학습
+  - **기술 스택:** `Python3`, `OpenCV`
+  - **성과/느낀점:** 
   - **Links:**
     - [GitHub Repository](https://github.com/...)
 
   ---
+
   <!-- 여기에 더 많은 프로젝트를 추가할 수 있습니다. -->
-</div>
 
-![seung064's github activity graph](https://ghchart.rshah.org/seung064)
+  ### 2. 전동킥보드 방향지시등
+  > ** 전동킥보드의 야간 또는 차도 주행 안전을 위해 방향지시등을 제작한 프로젝트 **
+  - **개발 기간:** 2020.11 ~ 2020.12
+  - **주요 기능:**
+    - 아두이노 압력센서를 통해 핸들에 두 손이 묶인 탑승자가 안전하게 방향지시등 사용
+  - **기술 스택:** `Arduino C++` , `압력센서` , `PWM제어`
+  - **성과/느낀점:** 코딩과 하드웨어 부분의 연동에 흥미를 느끼게 되었고, 좋은 결과로 교내캡스톤디자인 경진대회에서 대상을 받았습니다.
+  - **Links:**
+    - <!--[GitHub Repository](https://github.com/...)-->
+
+  ---
+
+  ### 3. 미니게임 - 중간프젝
+  > **  **
+  - **개발 기간:** 2025.05 ~ 2025.05
+  - **주요 기능:**
+    - C# - Unity 소켓 연동
+    - 생산, 유통기한, 제거, 생산시간, 조합, 퀘스트 기능
+    - 로그인 기능
+  - **기술 스택:** `C#` , `Unity` , `MVVM` , `SQLite`
+  - **성과/느낀점:** 
+  - **Links:**
+    - [GitHub Repository](https://github.com/...)
+  ---
+
+</div>
 
 <br>

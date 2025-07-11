@@ -109,7 +109,8 @@
   - **기술 스택:** `Python3`, `OpenCV`
   - **성과/느낀점:** 
   - **Links:**
-    - [GitHub Repository](https://github.com/...)
+    - [GitHub Repository](https://github.com/self_driving_rc_car)
+    - 
 
   ---
 
@@ -124,11 +125,11 @@
   - **성과/느낀점:**
     - 코딩과 하드웨어의 연동에 흥미를 느끼게 되었고, 좋은 결과로 교내캡스톤디자인 경진대회에서 대상을 받음
   - **Links:**
-    - [GitHub Repository](https://github.com/...)
+    - [GitHub Repository](https://github.com/seung064/arduino_turn_signal_kit)
 
   ---
 
-  ### 3. 미니게임 - 중간프젝
+  ### 3. 미니게임
   > ** 게임 형식의 생산 공정 시뮬레이션을 기획하고, 소켓 통신과 생산 로직 기반 시스템을 구현한 중간 프로젝트 **
   - **개발 기간:** 2025.05 ~ 2025.05
   - **주요 기능:**
@@ -142,9 +143,8 @@
     - 해당 경험을 바탕으로 이후 프로젝트(생산관리, 재고관리 시스템 등)에서 실질적인 공정 구현과 데이터 흐름 설계에 집중하게 됨
     - 실패를 통해 실무에 가까운 개발 방식과 단계적 구현 접근법의 중요성을 배움
   - **Links:**
-    - [GitHub Repository](https://github.com/...)
+    - [GitHub Repository](https://github.com/seung064/Lily)
    
-  
   ---
 
 </div>

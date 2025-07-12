@@ -116,15 +116,23 @@
     - [GitHub Repository](https://github.com/seung064/arduino_turn_signal_kit)
 
   ---
+  
+  ### 3. 점진성형기술을 활용한 다양한 박판부품 개발에 대한 연구
+  > 점진성형기술을 활용한 박판부품 개발의 주제로 상장, 표창장 제작을 위한 설계프로그램을 사용하고 CNC기계를 다뤄 주제를수행
+  - **개발 기간:** 2022.04 ~ 2022.07
+  - **기술 스택:** `Fusion360` , `G-code`
+  - **Links:**
+    - [GitHub Repository](https://github.com/seung064/certificate_project)
 
-  ### 3. 미니게임
+  ---
+
+  ### 4. 미니게임
   > 게임 형식의 생산 공정 시뮬레이션을 기획하고, 소켓 통신과 생산 로직 기반 시스템을 구현한 중간 프로젝트
   - **개발 기간:** 2025.05 ~ 2025.05
   - **기술 스택:** `C#` , `Unity` , `MVVM` , `SQLite`
   - **Links:**
     - [GitHub Repository(C#)](https://github.com/seung064/Lily)
     - [GitHub Repository(Unity)](https://github.com/seung064/Lily-Unity-.git)
-   
   ---
 
 </div>

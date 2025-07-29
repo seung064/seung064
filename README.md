@@ -133,7 +133,18 @@
   - **Links:**
     - [GitHub Repository(C#)](https://github.com/seung064/Lily)
     - [GitHub Repository(Unity)](https://github.com/seung064/Lily-Unity-.git)
+  
   ---
+  
+  ### 5. POP
+  > 게임 형식의 생산 공정 시뮬레이션을 기획하고, 소켓 통신과 생산 로직 기반 시스템을 구현한 중간 프로젝트
+  - **개발 기간:** 2025.07.01 ~ 2025.07.28
+  - **기술 스택:** `C#` , `WPF` , `PLC` , `MySQL`, `Python`, `LD`, `OpenCV` 
+  - **Links:**
+    - [GitHub Repository](https://github.com/seung064/POP)
+      
+  ---
+
 
 </div>
 

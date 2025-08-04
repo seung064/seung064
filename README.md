@@ -87,7 +87,6 @@
       (예: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, drastic 등)
     -->
     <img src="https://github-readme-stats.vercel.app/api?username=seung064&show_icons=true&theme=radical" alt="seung064's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seung064&layout=compact&theme=radical" alt="Top Langs" />
   </p>
 </div>
 

@@ -23,7 +23,7 @@
     [your-notion-page-url] 부분에 자신의 노션 페이지 주소를 입력하세요.
     [YOUR_GITHUB_ID] 부분에 자신의 GitHub 아이디를 입력하세요.
   -->
-  <a href="https://[your-notion-page-url].notion.site/"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+  <a href="https://www.notion.so/1bd86b77e26480289134f2026c063d1e?source=copy_link.notion.site/"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
   <a href="https://github.com/[YOUR_GITHUB_ID]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
